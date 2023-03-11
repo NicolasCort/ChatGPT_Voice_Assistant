@@ -5,13 +5,13 @@
 
 This is a python code that uses ChatGPT, a large language model trained by OpenAI, as a voice assistant.
 
-Installation
 To use this code, you need to have Python 3.x and the following libraries installed:
 
 - openai
 - pyaudio
 - SpeechRecognition
 - pyttsx3
+
 You can install the required libraries using pip:
 
 There are two python files the one finising in "es" is for spanish users because it translate the text to spanish instead of enlgish
