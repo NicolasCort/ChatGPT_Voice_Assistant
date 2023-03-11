@@ -1,4 +1,5 @@
-#ChatGPT Voice Assistant
+# ChatGPT Voice Assistant
+
 ![min_chatgptbot](https://user-images.githubusercontent.com/110467001/224504670-95561429-8f7b-43ef-9cd8-37dc5b6e4ec6.jpg)
 
 This is a python code that uses ChatGPT, a large language model trained by OpenAI, as a voice assistant.
